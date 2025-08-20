@@ -7,7 +7,7 @@ Repository: https://github.com/PratyushRanjanDas/to-do-list
 Live demo (GitHub Pages): https://pratyushranjandas.github.io/to-do-list/  
 
 Screenshot:
-![Uploading Screenshot 2025-08-20 at 10.10.39 PM.png…]()
+<img width="1680" height="1050" alt="Screenshot 2025-08-20 at 10 16 13 PM" src="https://github.com/user-attachments/assets/f6298abb-e27f-4123-a02f-252d6f51f362" />
 
 
 
