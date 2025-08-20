@@ -4,7 +4,7 @@ Simple, accessible To-Do list web app built with plain HTML, CSS and JavaScript.
 
 Repository: https://github.com/PratyushRanjanDas/to-do-list
 
-Live demo (GitHub Pages): https://pratyushranjandas.github.io/to-do-list/  
+Live demo (GitHub Pages): https://to-do-list-by-pratyush-ranjan-das.netlify.app
 
 Screenshot:
 <img width="1680" height="1050" alt="Screenshot 2025-08-20 at 10 16 13 PM" src="https://github.com/user-attachments/assets/f6298abb-e27f-4123-a02f-252d6f51f362" />
