@@ -7,6 +7,8 @@ Repository: https://github.com/PratyushRanjanDas/to-do-list
 Live demo (GitHub Pages): https://pratyushranjandas.github.io/to-do-list/  
 
 Screenshot:
+![Uploading Screenshot 2025-08-20 at 10.10.39 PM.png…]()
+
 
 
 ## Features
@@ -50,14 +52,8 @@ Option B — Use gh-pages branch with npm (if using a build step):
 3. Run:
    - npm run deploy
 
-## Add screenshot
-1. Take a screenshot of the app.
-2. Save it as `images/screenshot.png` in the repo.
-3. Commit and push. The README will display the screenshot on GitHub.
 
-## Accessibility & Notes
-- Task counts use `aria-live` for screen reader updates.
-- Buttons include titles / aria-labels for clarity.
+
 
 ## License
 MIT — feel free to use and modify for
